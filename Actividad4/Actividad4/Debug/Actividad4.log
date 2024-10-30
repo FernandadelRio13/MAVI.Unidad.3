@@ -1,0 +1,12 @@
+﻿  Actividad4.cpp
+C:\Users\maria\Desktop\Uni\Unidad3 MAVI\Actividad4\Actividad4\Actividad4.cpp(16,33): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\maria\Desktop\Uni\Unidad3 MAVI\Actividad4\Actividad4\Actividad4.cpp(16,33): warning C4244:         with
+C:\Users\maria\Desktop\Uni\Unidad3 MAVI\Actividad4\Actividad4\Actividad4.cpp(16,33): warning C4244:         [
+C:\Users\maria\Desktop\Uni\Unidad3 MAVI\Actividad4\Actividad4\Actividad4.cpp(16,33): warning C4244:             T=unsigned int
+C:\Users\maria\Desktop\Uni\Unidad3 MAVI\Actividad4\Actividad4\Actividad4.cpp(16,33): warning C4244:         ]
+C:\Users\maria\Desktop\Uni\Unidad3 MAVI\Actividad4\Actividad4\Actividad4.cpp(17,34): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\maria\Desktop\Uni\Unidad3 MAVI\Actividad4\Actividad4\Actividad4.cpp(17,34): warning C4244:         with
+C:\Users\maria\Desktop\Uni\Unidad3 MAVI\Actividad4\Actividad4\Actividad4.cpp(17,34): warning C4244:         [
+C:\Users\maria\Desktop\Uni\Unidad3 MAVI\Actividad4\Actividad4\Actividad4.cpp(17,34): warning C4244:             T=unsigned int
+C:\Users\maria\Desktop\Uni\Unidad3 MAVI\Actividad4\Actividad4\Actividad4.cpp(17,34): warning C4244:         ]
+  Actividad4.vcxproj -> C:\Users\maria\Desktop\Uni\Unidad3 MAVI\Actividad4\Debug\Actividad4.exe
